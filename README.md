@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://stanleylim.me/">Sergio Mazariego</a></h2>
-<p>I'm currently a Pentester at <strong><a href="https://www.snapchat.com/">Private Company</a> based in 🌁 El Salvador. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p>I'm a professional Pentester at <strong><a href="https://www.snapchat.com/">Private Company</a> based in 🌁 El Salvador. My mission is to keep people secure while competing with misguided talents.</p>
 <p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
-<img align="right" src="https://media.giphy.com/media/nlk3Y1u3r1n5C/giphy.gif" />
+<img align="right" src="https://giphy.com/clips/thefastsaga-fast-and-furious-saga-7-irTuHOkK9Ebrt69rt0" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
@@ -10,11 +10,10 @@
 <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
-    <summary>Explore</summary>
+    <summary>Click here for more</summary>
     <li><a target="_blank" href="https://blog.stanleylim.me/web-assembly,-automation-and-cooking-with-noonies-nominee-stanley-lim">Web Assembly, Automation and Cooking With Noonies Nominee Stanley Lim — November 06, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/introducing-spottr---your-spotify-stats-year-round">Introducing Spottr - Your Spotify Stats Year-Round — July 16, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/github1s---instantly-browse-projects-on-vscode-in-your-browser">Github1s - Instantly Browse Projects on VSCode in Your Browser ⚡ — February 10, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/extensions-google-chrome's-soft-underbelly-(part-2)">Extensions: Google Chrome's Soft Underbelly (Part 2) — February 07, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/extensions-google-chrome's-soft-underbelly-(part-1)">Extensions: Google Chrome's Soft Underbelly (Part 1) — January 07, 2021</a></li>
 </details>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
