@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="60" height="48" alt="React" />
       </a>
       <br>Python
     </td>
@@ -81,7 +81,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="48" height="48" alt="Docker" />
+        <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="48" height="60" alt="Docker" />
       </a>
       <br>Go
     </td>
