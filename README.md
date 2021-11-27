@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" width="48" height="48" alt="Jsonnet" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/grafana.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Grafana
     </td>
@@ -133,7 +133,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://files.gotocon.com/uploads/images/conference_1/topics/5/original/terraform.svg?63625254375" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Docker
     </td>
