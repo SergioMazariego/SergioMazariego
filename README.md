@@ -1,11 +1,13 @@
 <h2>Hey 👋, I'm <a href="https://stanleylim.me/">Sergio Mazariego</a></h2>
 <p>I'm a professional Pentester at <a href="https://www.snapchat.com/">Private Company</a> based in 🌁 El Salvador. My mission is to keep people secure while competing with misguided talents.</p>
+<p align="left">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 <img align="right" src="https://d1nhlc8kre3soh.cloudfront.net/wp-content/uploads/2019/10/how-to-install-linux.gif" />
+</p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
