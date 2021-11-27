@@ -127,13 +127,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://files.gotocon.com/uploads/images/conference_1/topics/5/original/terraform.svg?63625254375" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://files.gotocon.com/uploads/images/conference_1/topics/5/original/terraform.svg?63625254375" width="48" height="48" alt="JavaScript" />
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Docker
     </td>
