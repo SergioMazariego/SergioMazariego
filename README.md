@@ -55,7 +55,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/512px-Rustacean-orig-noshadow.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Rust
     </td>
@@ -81,7 +81,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://e7.pngegg.com/pngimages/239/7/png-clipart-gopher-docker-computer-programming-clojure-others-snout-computer-programming.png" width="48" height="48" alt="Docker" />
+        <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Go
     </td>
